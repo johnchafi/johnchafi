@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 
 <br/>
 <hr/>
-
-<hr/>
 <h2 align="center">Favorite Quotes</h2>
     
 > "The only way to do great work is to love what you do." – *Steve Jobs*
